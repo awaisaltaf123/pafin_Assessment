@@ -12,6 +12,7 @@ Welcome to the documentation for your project's API. This document provides clea
 - [Running the API](#running-the-api)
 - [API Endpoints](#api-endpoints)
 - [Testing the API](#testing-the-api)
+- [Video Demonstration](#video-demonstration)
 
 ## Getting Started
 
